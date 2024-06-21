@@ -1,0 +1,12 @@
+@media(min-width: 768px)
+{
+    .search{ display: block; width: 98%;}
+    .toggle{ display: none;}
+    .search input{ width: 80%; height: 45px; border: 1px solid #ccc; padding-left: 20px;}
+    nav{ display: block;}
+    .banner-left{ display: block; width: 300px;}
+    .banner-right { width: 70%;}
+    .fbox{ width: 17%;}
+    .catp .fbox{ width: 15%;}
+    .foottop .con { display: flex; justify-content: space-around; gap: 30px;}
+}
